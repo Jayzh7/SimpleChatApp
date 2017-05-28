@@ -1,0 +1,8 @@
+D:\VSprojects\sClient\sClient\bin\Debug\sClient.exe.config
+D:\VSprojects\sClient\sClient\obj\Debug\sClient.Form1.resources
+D:\VSprojects\sClient\sClient\obj\Debug\sClient.Properties.Resources.resources
+D:\VSprojects\sClient\sClient\obj\Debug\sClient.csproj.GenerateResource.Cache
+D:\VSprojects\sClient\sClient\bin\Debug\sClient.exe
+D:\VSprojects\sClient\sClient\bin\Debug\sClient.pdb
+D:\VSprojects\sClient\sClient\obj\Debug\sClient.exe
+D:\VSprojects\sClient\sClient\obj\Debug\sClient.pdb
